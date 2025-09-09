@@ -8,7 +8,6 @@ A web developer mainly focused on **Backend development**. I enjoy building clea
 
 * 2+ years of professional experience in web development
 * Main focus: **Backend** (since 2022)
-* Experience with **Frontend** (since 2024)
 * Interested in **Cybersecurity / Bug Bounty / PenTest**
 * Tech stack preference for new projects: **Node.js** (Backend), **MongoDB** (Database)
 * Currently learning more about **Docker** and **Artificial Intelligence**
@@ -19,11 +18,11 @@ A web developer mainly focused on **Backend development**. I enjoy building clea
 
 **Languages:** `JavaScript` · `PHP` · `Python` · `HTML` · `CSS`
 
-**Frontend:** `Tailwind CSS` · `Bootstrap`
-
 **Backend / Frameworks:** `Node.js` · `Express`
 
 **Databases:** `MongoDB` · `SQL / MySQL`
+
+**Frontend (Basics):** `Tailwind CSS` · `Bootstrap`
 
 **DevOps & Tools:** `Git & GitHub` · `Docker (Learning)` · `Linux Essentials (Planned)` · `WebSocket (Planned)`
 
@@ -33,9 +32,9 @@ A web developer mainly focused on **Backend development**. I enjoy building clea
 
 ## 🚀 Projects & Interests
 
-* **Management systems & admin panels** with React and Node.js
-* **Clean & well-documented APIs** (REST)
-* **Process automation** and internal tools for teams
+* **Backend systems and APIs** built with Node.js
+* **Clean & well-documented REST APIs**
+* **Process automation** and internal tools
 * **Security practices** focusing on Recon & Initial Access (educational)
 
 > Check out my pinned repositories for real projects. Each project has its own README with detailed explanation.
@@ -53,8 +52,8 @@ A web developer mainly focused on **Backend development**. I enjoy building clea
 ## 🧪 My Work Standards
 
 * Clean code with focus on **security**, **scalability**, and **readability**
-* Atomic commits with clear messages; small, reviewable PRs
-* Concise documentation and task management with Issues/Projects
+* Atomic commits with clear messages; small, reviewable Pull Requests
+* Committed to teamwork and delivering all assigned tasks with the best quality
 
 ---
 
