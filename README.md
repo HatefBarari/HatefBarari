@@ -15,7 +15,7 @@ A web developer mainly focused on **Backend development**. I enjoy building clea
 
 ## 🧰 Skills & Technologies
 
-**Languages:** `JavaScript` · `Golang` · `PHP` · `Python` · `HTML` · `CSS`
+**Languages:** `JavaScript` · `Golang` · `PHP` · `Python` 
 
 **Backend / Frameworks:** `Node.js` · `Express` · `Gin` · `Echo`
 
