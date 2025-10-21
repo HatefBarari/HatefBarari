@@ -8,7 +8,6 @@ A web developer mainly focused on **Backend development**. I enjoy building clea
 
 * 2+ years of professional experience in web development
 * Main focus: **Backend** (since 2022)
-* Interested in **Cybersecurity / Bug Bounty / PenTest**
 * Tech stack preference for new projects: **Node.js** (Backend), **MongoDB** (Database)
 * Currently learning more about **Docker** and **Artificial Intelligence**
 
