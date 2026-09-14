@@ -167,43 +167,15 @@ Implemented SEO strategies and boosted website performance by 70% through server
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats & Activity
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hatefbarari&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <img height="180em" src="https://streak-stats.demolab.com/?user=hatefbarari&theme=tokyonight&hide_border=true" />
 
-</div>
+<br><br>
 
----
-
-## 💻 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatefbarari&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hatefbarari&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hatefbarari&theme=algolia&row=1&column=7&margin-w=15" />
+<img src="https://metrics.lecoq.io/hatefbarari?template=classic&base=header,activity,community,repositories,metadata&config.timezone=Asia%2FTehran" />
 
 </div>
 
