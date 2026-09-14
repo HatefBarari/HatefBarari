@@ -173,10 +173,6 @@ Implemented SEO strategies and boosted website performance by 70% through server
 
 <img height="180em" src="https://streak-stats.demolab.com/?user=hatefbarari&theme=tokyonight&hide_border=true" />
 
-<br><br>
-
-<img src="https://metrics.lecoq.io/hatefbarari?template=classic&base=header,activity,community,repositories,metadata&config.timezone=Asia%2FTehran" />
-
 </div>
 
 ---
