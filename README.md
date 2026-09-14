@@ -28,14 +28,15 @@ Building scalable backend systems, Microservices, SEO-driven solutions and AI-po
 
 ## 🚀 About Me
 
-Backend Engineer focused on scalable architectures, API design, Microservices and performance optimization.
+Backend Engineer focused on scalable architectures, API design, Microservices and performance optimization — with a growing specialty in Applied Data Science and bridging web services with Machine Learning models.
 
 * 💻 Building scalable backend systems
 * ⚡ Specialized in Node.js and Golang
 * 🏗️ Designing Microservices and distributed systems
 * 🔍 Passionate about SEO & Performance Optimization
 * 🤖 Exploring AI, LLMs and intelligent automation
-* 🐳 Working with Docker, Linux and modern DevOps workflows
+* 📊 Applying classification models & EDA with Python (Pandas, NumPy, Scikit-Learn)
+* 🐳 Working with Docker, Kubernetes, Linux and modern DevOps workflows
 * 🌱 Constantly learning and improving
 
 ---
@@ -76,6 +77,20 @@ Backend Engineer focused on scalable architectures, API design, Microservices an
 
 ---
 
+### AI & Data Science
+
+<img src="https://skillicons.dev/icons?i=py" height="55" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+
+<br><br>
+
+**Python • NumPy • Pandas • Scikit-Learn • Matplotlib**
+
+---
+
 ### Databases
 
 <img src="https://skillicons.dev/icons?i=mysql" height="55" />
@@ -92,14 +107,15 @@ Backend Engineer focused on scalable architectures, API design, Microservices an
 ### DevOps & Tools
 
 <img src="https://skillicons.dev/icons?i=docker" height="55" />
+<img src="https://skillicons.dev/icons?i=kubernetes" height="55" />
 <img src="https://skillicons.dev/icons?i=linux" height="55" />
 <img src="https://skillicons.dev/icons?i=git" height="55" />
 <img src="https://skillicons.dev/icons?i=githubactions" height="55" />
-<img src="https://skillicons.dev/icons?i=vscode" height="55" />
+<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
 
 <br><br>
 
-**Docker • Linux • Git • GitHub Actions • VS Code**
+**Docker • Kubernetes • Kafka • Linux • Git • GitHub Actions**
 
 ---
 
@@ -117,17 +133,37 @@ Backend Engineer focused on scalable architectures, API design, Microservices an
 
 ## 💪 Core Expertise
 
-| Area                | Technologies                      |
-| ------------------- | --------------------------------- |
-| Backend Development | Node.js, Golang, PHP              |
-| Node.js Frameworks  | NestJS, Express.js                |
-| Golang Frameworks   | Gin, Echo                         |
-| Databases           | MySQL, PostgreSQL, MongoDB, Redis |
-| Architecture        | REST APIs, Microservices          |
-| DevOps              | Docker, Linux, GitHub Actions     |
-| CMS Development     | WordPress Plugin Architecture     |
-| Optimization        | SEO, Performance Optimization     |
-| AI                  | AI Integrations, LLM Applications |
+| Area                | Technologies                                       |
+| ------------------- | --------------------------------------------------- |
+| Backend Development | Node.js, Golang, PHP                                 |
+| Node.js Frameworks  | NestJS, Express.js                                   |
+| Golang Frameworks   | Gin, Echo                                            |
+| Databases           | MySQL, PostgreSQL, MongoDB, Redis                    |
+| Architecture        | REST APIs, Microservices, Event-Driven Architecture  |
+| AI & Data Science   | Python, Pandas, NumPy, Scikit-Learn, Matplotlib      |
+| DevOps              | Docker, Kubernetes, Kafka, Linux, GitHub Actions     |
+| CMS Development     | WordPress Plugin Architecture                        |
+| Optimization        | SEO, Performance Optimization                        |
+
+---
+
+## 💼 Experience
+
+**Freelance Full-Stack Developer** — *Independent Projects (2023 – Present)*
+Built a concurrent blog engine & e-commerce core with Golang/Echo, a real-time ride-hailing backend with NestJS, and various Node.js/Express industrial systems.
+
+**WordPress Plugin Developer** — *IPara (2025 – 2026)*
+Designed custom WordPress plugins focused on AI-driven automation, optimizing backend hook systems between WordPress and external AI services.
+
+**IT Manager & Backend Developer** — *Taktaz Sanat Mousavi Company (1 Year)*
+Implemented SEO strategies and boosted website performance by 70% through server-side optimization and asset management.
+
+---
+
+## 🎓 Education
+
+* **Data Science & ML Bootcamp** — IMT Academy *(Instructed by Sharif University graduates)*, 2024 – 2025
+* **Bachelor of Computer Engineering** — Payame Noor University, Final Semester
 
 ---
 
@@ -135,9 +171,9 @@ Backend Engineer focused on scalable architectures, API design, Microservices an
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hatefbarari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hatefbarari&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hatefbarari&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://streak-stats.demolab.com/?user=hatefbarari&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -203,15 +239,17 @@ Backend Engineer focused on scalable architectures, API design, Microservices an
 * AI-Powered Features
 * Workflow Automation
 * Prompt Engineering
+* Classification Models & Exploratory Data Analysis (EDA)
 
 ---
 
 ## 🌍 Languages
 
-| Language     | Proficiency  |
-| ------------ | ------------ |
-| 🇮🇷 Persian | Native       |
-| 🇺🇸 English | Intermediate |
+| Language      | Proficiency  |
+| ------------- | ------------ |
+| 🇮🇷 Persian   | Native       |
+| 🇹🇷 Turkish   | Intermediate |
+| 🇺🇸 English   | Intermediate |
 
 ---
 
@@ -219,11 +257,11 @@ Backend Engineer focused on scalable architectures, API design, Microservices an
 
 <p align="left">
 
-<a href="mailto:hatef82@gmail.com">
+<a href="mailto:hatefbararitari@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
 </a>
 
-<a href="https://linkedin.com/in/hatef-barari">
+<a href="https://www.linkedin.com/in/hatef-barari-b97b87319/">
 <img src="https://img.shields.io/badge/LinkedIn-Hatef%20Barari-0077B5?style=for-the-badge&logo=linkedin" />
 </a>
 
@@ -231,14 +269,6 @@ Backend Engineer focused on scalable architectures, API design, Microservices an
 <img src="https://img.shields.io/badge/GitHub-hatefbarari-181717?style=for-the-badge&logo=github" />
 </a>
 
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hatefbarari/hatefbarari/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
